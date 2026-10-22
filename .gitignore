@@ -1,0 +1,14 @@
+.gradle/
+build/
+.idea/
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+gradle/.tmp/
+gradle/caches/
+gradle/daemon/
+gradle/native/
+gradle/wrapper/dists/
